@@ -1,0 +1,21 @@
+body{
+background-color: #CAF88E
+}
+
+.main_div{
+	width: 80%;
+	margin: 0 auto;   
+	text-align: center;   
+  font-family: 'Courier New', Courier, monospace;
+  color: #2D5CCE;
+  font-size: 30px;
+}
+
+.loggedin_div{
+	width: 80%;
+	margin: 0 auto;  
+	text-align: center;  
+  font-family: 'Courier New', Courier, monospace;
+  color: #2D5CCE;
+  font-size: 20px;
+}
